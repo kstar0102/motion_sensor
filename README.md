@@ -1,4 +1,4 @@
-# Bluetooth&reg; LE - SensorHub
+# Bluetooth; LE - SensorHub
 
 This example demonstrates multiple sensors (motion sensor, 3D magnetic sensor, and thermistor) interfaced with AIROC™ CYW207xx and  CYW208xx Bluetooth® & Bluetooth® LE system on chips using ModusToolbox&trade; software.
 
@@ -9,7 +9,7 @@ This example demonstrates multiple sensors (motion sensor, 3D magnetic sensor, a
 
 
     **Note:** This code example version requires ModusToolbox&trade; software version 2.2 or later and is not backward compatible with v2.1 or older versions. If you cannot move to ModusToolbox&trade; software v2.2, use the latest compatible 
-- Board support package (BSP) minimum required version: 3.0.0
+
 - Programming language: C
 
 
@@ -278,13 +278,7 @@ This section explains the ModusToolbox&trade; software resources and their confi
 * **Bluetooth&reg; configurator:** Used for generating/modifying the Bluetooth&reg; LE GATT database. See the
 [Bluetooth&reg; configurator guide]
 
-## Related resources
 
-
-
-![banner](images/footer_banner.png)
-
--------------------------------------------------------------------------------
 
 Device.  Cypress products are not intended or authorized for use as a Critical Component in any High-Risk Device except to the limited extent that (i) Cypress’s published data sheet for the product explicitly states Cypress has qualified the product for use in a specific High-Risk Device, or (ii) Cypress has given you advance written authorization to use the product as a Critical Component in the specific High-Risk Device and you have signed a separate indemnification agreement.
 <br>
